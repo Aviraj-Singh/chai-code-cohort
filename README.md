@@ -1,3 +1,9 @@
+<a href="https://courses.chaicode.com/">
+  <p align=center>
+    <img width = "800px" alt="Web Dev Cohort" src="https://imgproxy.learnyst.com/learnyst-user-assets/school-assets/schools/171024/courses/214297/2Techies_lyst1734202474139.jpg">
+  <p>
+</a>
+
 # ChaiCode Product Development (MERN+DevOps) Assignments
 
 This repository contains all the assignments completed during the ChaiCode Product Development (MERN+DevOps) Cohort. 
@@ -24,6 +30,16 @@ This repository contains all the assignments completed during the ChaiCode Produ
 * This repository is primarily for individual assignments.
 * If collaboration is permitted for a specific assignment, guidelines will be provided.
 
-**Contact:**
+## Contact Me:
 
-Aviraj Singh
+<div align= center>
+
+[![X](https://img.shields.io/badge/X-@helloaviraj-black?style=flat&logo=x)](https://twitter.com/helloaviraj)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-@avirajsingh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/avirajsingh11)&nbsp;&nbsp;[![Mail](https://img.shields.io/badge/Mail-itsavirajsingh@gmail.com-blue?style=flat&logo=mail)](mailto:itsavirajsingh@gmail.com)&nbsp;&nbsp;[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow?style=flat)](https://www.conventionalcommits.org/v1.0.0/)&nbsp;&nbsp;[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat)](https://opensource.org/licenses/MIT)
+
+</div>
+
+---
+
+If you find this repository useful, please consider giving it a star! ⭐
+
+---
