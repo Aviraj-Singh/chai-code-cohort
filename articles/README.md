@@ -15,15 +15,19 @@
 
 </div>
 
-### [Inside the Internet: How It All Works](https://explain-internet.hashnode.dev/inside-the-internet-how-it-all-works)
+### [Inside the Internet: How It All Works](https://aviraj-explains.hashnode.dev/inside-the-internet-how-it-all-works)
 
 <br>
 
-### [How the Internet Brings Websites to Your Screen](https://explain-internet.hashnode.dev/how-the-internet-brings-websites-to-your-screen)
+### [How the Internet Brings Websites to Your Screen](https://aviraj-explains.hashnode.dev/how-the-internet-brings-websites-to-your-screen)
 
 <br>
 
-### [DNS: The Internet’s GPS – Mapping Names to Numbers](https://explain-internet.hashnode.dev/dns-the-internets-gps-mapping-names-to-numbers)
+### [DNS: The Internet’s GPS – Mapping Names to Numbers](https://aviraj-explains.hashnode.dev/dns-the-internets-gps-mapping-names-to-numbers)
+
+<br>
+
+### [Serialization and Deserialization: The Art of Data Teleportation](https://aviraj-explains.hashnode.dev/serialization-and-deserialization-the-art-of-data-teleportation)
 
 <br>
 
