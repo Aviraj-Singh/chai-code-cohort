@@ -36,9 +36,6 @@ Aviraj Singh
 <!-- Social Media Links -->
 <div align= center>
 
-[![X](https://img.shields.io/badge/X-@helloaviraj-black?style=flat&logo=x)](https://twitter.com/helloaviraj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@avirajsingh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/avirajsingh11)  
-[![Mail](https://img.shields.io/badge/Mail-itsavirajsingh@gmail.com-blue?style=flat&logo=mail)](mailto:itsavirajsingh@gmail.com) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow?style=flat)](https://www.conventionalcommits.org/v1.0.0/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat)](https://opensource.org/licenses/MIT)
+[![X](https://img.shields.io/badge/X-@helloaviraj-black?style=flat&logo=x)](https://twitter.com/helloaviraj)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-@avirajsingh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/avirajsingh11)&nbsp;&nbsp;[![Mail](https://img.shields.io/badge/Mail-itsavirajsingh@gmail.com-blue?style=flat&logo=mail)](mailto:itsavirajsingh@gmail.com)&nbsp;&nbsp;[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow?style=flat)](https://www.conventionalcommits.org/v1.0.0/)&nbsp;&nbsp;[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat)](https://opensource.org/licenses/MIT)
 
 </div>
