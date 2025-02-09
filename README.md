@@ -38,6 +38,10 @@ This repository contains all the assignments completed during the ChaiCode Produ
 
 </div>
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE). &nbsp;Feel free to learn, add upon, and share my work!
+
 ---
 
 If you find this repository useful, please consider giving it a star! ⭐
